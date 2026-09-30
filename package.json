@@ -1,0 +1,31 @@
+{
+  "name": "break-the-ice",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An over-engineered arcade machine that delivers one stupid joke about a polar bear.",
+  "scripts": {
+    "sync-content": "node scripts/build-content.mjs",
+    "extract": "python scripts/extract_pdf.py",
+    "predev": "npm run sync-content",
+    "dev": "vite",
+    "prebuild": "npm run sync-content",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b"
+  },
+  "dependencies": {
+    "@fontsource/archivo-black": "^5.2.5",
+    "@fontsource/press-start-2p": "^5.2.5",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^5.0.0",
+    "rollup": "npm:@rollup/wasm-node@4.63.5",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.3"
+  }
+}

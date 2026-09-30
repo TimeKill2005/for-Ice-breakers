@@ -1,0 +1,172 @@
+[2m11:06:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because lockfile has changed
+
+  [32m[1mVITE[22m v7.3.6[39m  [2mready in [0m[1m860[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m11:24:00 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx, /src/App.tsx[22m
+[2m11:24:45 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx, /src/App.tsx[22m
+[2m11:24:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx, /src/App.tsx[22m
+[2m11:25:59 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:26:18 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:26:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:26:35 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx, /src/App.tsx[22m
+[2m11:26:55 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:27:04 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:27:31 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:27:37 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:27:52 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:28:00 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:28:07 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:28:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:28:27 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:28:30 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:28:35 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:28:39 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:28:48 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:28:53 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:29:07 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:30:27 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:30:30 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:30:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:30:38 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:30:41 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:30:44 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:30:48 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:30:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:30:54 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:30:58 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:31:03 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:31:06 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:31:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:31:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:31:26 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:31:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:31:39 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:31:43 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:31:47 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:31:50 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:31:52 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:31:59 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:04 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:08 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:10 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:12 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:15 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:18 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:23 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:31 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:37 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:40 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:43 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:46 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:50 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:54 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:32:57 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:33:00 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:33:02 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:33:05 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:33:07 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:33:10 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:33:15 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:33:18 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:33:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:33:27 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Controls.tsx[22m
+[2m11:33:31 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Controls.tsx[22m
+[2m11:33:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Controls.tsx[22m
+[2m11:33:37 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Controls.tsx[22m
+[2m11:33:40 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Controls.tsx[22m
+[2m11:33:43 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Controls.tsx[22m
+[2m11:33:48 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:33:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:33:57 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:33:57 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\src\App.tsx: 'return' outside of function. (133:4)
+
+[0m [90m 131 |[31m     }
+ [90m 132 |[31m     window[33m.[31maddEventListener([32m'keydown'[31m[33m,[31m onKeyDown)
+[31m[1m>[22m[31m[90m 133 |[31m     [36mreturn[31m () [33m=>[31m window[33m.[31mremoveEventListener([32m'keydown'[31m[33m,[31m onKeyDown)
+ [90m     |[31m     [31m[1m^[22m[31m
+ [90m 134 |[31m   }[33m,[31m [game[33m.[31mtrigger[33m,[31m markInput[33m,[31m booted])
+ [90m 135 |[31m
+ [90m 136 |[31m   [90m/* --- any interaction wakes the bear up ---------------------------------- */[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/mahas/OneDrive/Documents/Desktop/SYLERSYS/icebreak/src/App.tsx[39m:133:4
+[33m  131 |      }
+  132 |      window.addEventListener('keydown', onKeyDown)
+  133 |      return () => window.removeEventListener('keydown', onKeyDown)
+      |      ^
+  134 |    }, [game.trigger, markInput, booted])
+  135 |  [39m
+      at constructor (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:6622:19)
+      at TypeScriptParserMixin.parseReturnStatement (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:13170:12)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:12832:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:9531:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:12801:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:12778:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:13350:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:13343:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:12656:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:12646:25)
+      at TypeScriptParserMixin.parse (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:14522:25)
+      at TypeScriptParserMixin.parse (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:10149:18)
+      at parse (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\parser\lib\index.js:14556:38)
+      at parser (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\gensync\index.js:261:32)
+      at C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\gensync\index.js:223:11)
+      at C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\gensync\index.js:189:28
+      at C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\gensync\index.js:113:33
+      at step (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\gensync\index.js:287:14)
+      at C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\mahas\OneDrive\Documents\Desktop\SYLERSYS\icebreak\node_modules\gensync\index.js:223:11)
+[2m11:34:05 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:34:14 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:34:17 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:34:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:34:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:34:38 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:34:45 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:34:48 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:34:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:34:58 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:35:14 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:35:36 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/IcePlatform.tsx[22m
+[2m11:35:38 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/IcePlatform.tsx[22m
+[2m11:35:43 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/IcePlatform.tsx[22m
+[2m11:35:50 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/IcePlatform.tsx[22m
+[2m11:36:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m11:36:32 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m11:36:39 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m11:36:52 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/QuestionCard.tsx[22m
+[2m11:36:52 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/QuestionCard.tsx[22m
+[2m11:39:43 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:39:45 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:39:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:40:03 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Controls.tsx[22m
+[2m11:40:08 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/QuestionCard.tsx[22m
+[2m11:40:08 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/QuestionCard.tsx[22m
+[2m11:40:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:40:30 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:40:33 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:40:41 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:41:07 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m11:41:14 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/QuestionCard.tsx[22m
+[2m11:41:14 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/QuestionCard.tsx[22m
+[2m11:41:55 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:42:00 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx[22m
+[2m11:42:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/GameScene.tsx, /src/App.tsx[22m
+[2m11:42:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/QuestionCard.tsx[22m
+[2m11:42:51 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/QuestionCard.tsx[22m
